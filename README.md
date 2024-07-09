@@ -18,9 +18,9 @@
 
 ~~Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).~~
 
-Ambos devem fazer um clone do repositório em suas máquinas locais.
+~~Ambos devem fazer um clone do repositório em suas máquinas locais.~~
 
-Realizem alterações, Commits, abra issues e pull requests.
+~~Realizem alterações, Commits, abra issues e pull requests.~~
 
 **Formatação com Markdown:**
 
