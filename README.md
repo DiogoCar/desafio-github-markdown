@@ -16,7 +16,7 @@
 
 **Colaboração:**
 
-Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
+~~Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).~~
 
 Ambos devem fazer um clone do repositório em suas máquinas locais.
 
