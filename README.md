@@ -34,3 +34,8 @@ descrição do seu projeto.
 **Colab**
 
 Não esquece que sempre que for fazer um pull request você deve criar uma branch e realizar merge dessa branch para a branch main ou master dependendo de como você a nomeou
+
+devemos sempre colocar proteção da branch ao trabalhar em colabs, devemos ir em Settings>Branches e adicionar uma proteção a branch main ou master(dependendo de como é feita a nomenclatura) e adicionando a obrigatoriedade de aprovação
+
+devemos também na guia general marcar a opção para deletar as head branches assim qualquer nova branch que foi mergeada será deletada deixando o ambiente mais limpo #colab-damião
+ 
