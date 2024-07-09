@@ -29,3 +29,8 @@ Realizem alterações, Commits, abra issues e pull requests.
 Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve 
 
 descrição do seu projeto.
+
+
+**Colab**
+
+Não esquece que sempre que for fazer um pull request você deve criar uma branch e realizar merge dessa branch para a branch main ou master dependendo de como você a nomeou
